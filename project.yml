@@ -1,0 +1,67 @@
+---
+settings:
+  name: Cloud Volumes Service for AWS
+  platform: cloud
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: ja-jp,us-en,zh-cn,ko-kr
+sidebar:
+  entries:
+  - title: Cloud Manager のすべてのドキュメント
+    url: https://docs.netapp.com/us-en/cloud-manager-family
+  - title: Cloud Volumes Service for AWS のドキュメント
+    url: "/index.html"
+  - title: リリースノート
+    url: "/whats-new.html"
+  - title: はじめに
+    entries:
+    - title: Cloud Volumes Service for AWS の詳細については、こちらをご覧ください
+      url: "/concept-cvs-aws.html"
+  - title: Cloud Volumes Service for AWS を使用する
+    entries:
+    - title: クラウドボリュームを導入して管理
+      url: "/task-manage-cvs-aws.html"
+    - title: クラウドボリュームの Snapshot を管理します
+      url: "/task-manage-cloud-volumes-snapshots.html"
+  - title: 概念
+    entries:
+    - title: サービスレベルと割り当て容量
+      url: "/reference-cvs-service-levels-and-quotas.html"
+    - title: Windows AD サーバ用の AWS セキュリティグループの設定
+      url: "/reference-security-groups-windows-ad-servers.html"
+  - title: 知識とサポート
+    entries:
+    - title: サポートに登録します
+      url: "/task-support-registration.html"
+    - title: ヘルプを表示します
+      url: "/task-get-help.html"
+  - title: 法的通知
+    url: "/legal-notices.html"
+homepage:
+  tiles:
+  - title: はじめに
+    links:
+    - title: Cloud Volumes Service for AWS の詳細については、こちらをご覧ください
+      url: concept-cvs-aws.html
+    - title: 新機能
+      url: whats-new.html
+  - title: Cloud Volumes Service for AWS を使用する
+    links:
+    - title: クラウドボリュームを作成
+      url: task-manage-cvs-aws.html#create-cloud-volumes
+    - title: 既存のボリュームを管理
+      url: task-manage-cvs-aws.html#managing-existing-volumes
+    - title: クラウドボリュームの Snapshot を管理します
+      url: task-manage-cloud-volumes-snapshots.html
+  - title: ブログコミュニティ
+    links:
+    - title: ネットアップコミュニティ
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: Cloud Central のブログです
+      url: https://cloud.netapp.com/blog
+    - title: クラウドに関する Web セミナー
+      url: https://cloud.netapp.com/events
+product-family: {}

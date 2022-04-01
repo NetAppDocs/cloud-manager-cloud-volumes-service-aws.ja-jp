@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: whats-new.html 
+keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes' 
+summary: Cloud Volumes Service for AWS の新機能をご確認ください。 
+---
+= Cloud Volumes Service for AWS の新機能
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Cloud Volumes Service for AWS の新機能をご確認ください。
+
+
+
+== 2021 年 9 月 2 日
+
+
+
+=== 新しい CVS for AWS 作業環境を作成できません。
+
+をリリースしています link:https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/concept-fsx-aws.html["ONTAP 対応の Amazon FSX"]では、 Cloud Manager で新しい CVS for AWS の作業環境を作成することはできなくなりました。ただし、以前に Cloud Manager に CVS for AWS の作業環境を追加していた場合は、引き続きボリュームを作成および管理できます。
