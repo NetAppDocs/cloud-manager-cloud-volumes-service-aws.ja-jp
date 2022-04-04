@@ -21,6 +21,6 @@ Cloud Volumes Service for AWS の新機能をご確認ください。
 
 
 
-=== 新しい CVS for AWS 作業環境を作成できません。
+=== AWS 作業環境用の新しい Cloud Volumes Service を作成できません。
 
-をリリースしています link:https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/concept-fsx-aws.html["ONTAP 対応の Amazon FSX"]では、 Cloud Manager で新しい CVS for AWS の作業環境を作成することはできなくなりました。ただし、以前に Cloud Manager に CVS for AWS の作業環境を追加していた場合は、引き続きボリュームを作成および管理できます。
+をリリースしています link:https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/concept-fsx-aws.html["ONTAP 対応の Amazon FSX"]をクリック Cloud Volumes Service すると、 Cloud Manager で AWS 向けの新しい作業環境を作成できなくなります。ただし、以前に Cloud Volumes Service for AWS の作業環境を Cloud Manager に追加していた場合は、引き続きボリュームを作成および管理できます。

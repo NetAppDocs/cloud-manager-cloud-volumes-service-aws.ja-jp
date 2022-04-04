@@ -76,10 +76,7 @@
   <block id="69c870ef5a9fde9a9c627d8c46f1737a" category="paragraph"><block ref="69c870ef5a9fde9a9c627d8c46f1737a" category="inline-image-macro-rx" type="image"></block></block>
   <block id="a696ff8c895f6eed266509c3ab2452a9" category="summary">Cloud Volumes Service for AWS の新機能をご確認ください。</block>
   <block id="780371a55c5f8fb4b8ad9c591f1ca785" category="doc">Cloud Volumes Service for AWS の新機能</block>
-  <block id="3b7a1a77cdd08778e0827fbf312442b7" category="section-title">2021 年 9 月 2 日</block>
-  <block id="b8a465f604dc28087d04a8998f16d610" category="section-title">新しい CVS for AWS 作業環境を作成できません。</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">ONTAP 対応の Amazon FSX</block>
-  <block id="2fe1ae66d2802d30c5480c17cf6781f4" category="paragraph">をリリースしています <block ref="f5299bffecc7e118b61541de961fc5aa" category="inline-link-macro-rx"></block>では、 Cloud Manager で新しい CVS for AWS の作業環境を作成することはできなくなりました。ただし、以前に Cloud Manager に CVS for AWS の作業環境を追加していた場合は、引き続きボリュームを作成および管理できます。</block>
   <block id="ce21e7ae4271271294ccbf54c8fd6864" category="summary">ネットアップでは、 Cloud Manager をさまざまな方法でサポートしています。ナレッジベース（ KB ）記事やコミュニティフォーラムなど、 24 時間 365 日利用可能な幅広いセルフサポートオプションをご用意しています。サポート登録には、 Web チケット処理によるリモートテクニカルサポートが含まれます。</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">ヘルプを表示します</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link-macro"></block>
@@ -578,4 +575,8 @@
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">ネットアップコミュニティ</block>
   <block id="ff6c37cbc252e306a6b4e390ec13cbc1" category="sidebar">Cloud Central のブログです</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">クラウドに関する Web セミナー</block>
+  <block id="d798cbf5a08fbeb9fdd3652e5b00bb4c" category="section-title">2021 年 9 月 2 日</block>
+  <block id="5690692f09ed4eae80e2f6b0bcaddd11" category="section-title">AWS 作業環境用の新しい Cloud Volumes Service を作成できません。</block>
+  <block id="7bc918c632f0c5dfc839f6245b289949" category="paragraph">をリリースしています <block ref="f5299bffecc7e118b61541de961fc5aa" category="inline-link-macro-rx"></block>をクリック Cloud Volumes Service すると、 Cloud Manager で AWS 向けの新しい作業環境を作成できなくなります。ただし、以前に Cloud Volumes Service for AWS の作業環境を Cloud Manager に追加していた場合は、引き続きボリュームを作成および管理できます。</block>
+  <block id="8184a02e5fd636ada7ac9c7887ab7063" category="admonition">をリリースしています <block ref="96821e1e659978c978732a5dc24298ac" category="inline-link-macro-rx"></block>をクリック Cloud Volumes Service すると、 Cloud Manager で AWS 向けの新しい作業環境を作成できなくなります。ただし、以前に Cloud Volumes Service for AWS の作業環境を Cloud Manager に追加していた場合は、引き続きボリュームを作成および管理できます。</block>
 </blocks>
