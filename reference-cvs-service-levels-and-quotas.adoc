@@ -6,6 +6,7 @@ summary: Cloud Volumes Service for AWS のコストは、選択したサービ�
 ---
 = サービスレベルと割り当て容量
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
